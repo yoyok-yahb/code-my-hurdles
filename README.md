@@ -19,19 +19,15 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 14 | 800 | [Yogurt Sale](https://codeforces.com/problemset/problem/1955/A) | [`yogurt.cpp`](/Daily%20Logs/2025/12/14/yogurt.cpp) | Math |
 | **Dec 15** | 800 | [Good Kid](https://codeforces.com/problemset/problem/1873/B) | [`goodkid.cpp`](/Daily%20Logs/2025/12/15/goodkid.cpp) | Brute Force, Greedy, Maths |
 | Dec 15 | 800 | [Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | . | Greedy, Maths |
-| **Dec 16** | 800 | [Line Trip](https://codeforces.com/problemset/problem/1901/A) | . | Greedy, Maths |
+| **Dec 16** | 800 | [Line Trip](https://codeforces.com/problemset/problem/1901/A) | [`linetrip.cpp`](/Daily%20Logs/2025/12/16/linetrip.cpp) | Greedy, Maths |
 | Dec 16 | 800 | [Shuffle Party](https://codeforces.com/problemset/problem/1937/A) | . | Implementation, Maths |
-
----
 
 ### 💡 Leetcode Tracker 
 | Date | Level | Problem | My Solution |
 | :--- | :--- | :--- | :--- |
 | **Dec 15** | Easy | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [`missing.cpp`](/Daily%20Logs/2025/12/15/missing.cpp) |
-| **Dec 15** | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [`consecutive.cpp`](/Daily%20Logs/2025/12/15/consecutive.cpp) |
+| Dec 15 | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [`consecutive.cpp`](/Daily%20Logs/2025/12/15/consecutive.cpp) |
 | **Dec 16** | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [`concatenation.cpp`](/Daily%20Logs/2025/12/16/concatenation.cpp) |
-
----
 
 ### 🧩 Geeks for Geeks Tracker
 | Date | Level | Problem | My Solution | Concepts |
