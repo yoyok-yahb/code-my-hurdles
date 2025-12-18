@@ -26,6 +26,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 16 | 800 | [Shuffle Party](https://codeforces.com/problemset/problem/1937/A) | . | Implementation, Math |
 | **Dec 17** | 800 | [Odd One Out](https://codeforces.com/problemset/problem/1915/A) | [`odd.cpp`](/Daily%20Logs/2025/12/17/odd.cpp) | Bitmasks, Implementation |
 | Dec 17 | 800 | [2023](https://codeforces.com/problemset/problem/1916/A) | . | Constructive Algorithms, Implementation, Math, Number Theory |
+| **Dec 18** | 800 | [Minimal Coprime](https://codeforces.com/problemset/problem/2063/A) | [`coprime.cpp`](/Daily%20Logs/2025/12/18/coprime.cpp) | Math, Number Theory |
 
 ### 💡 Leetcode Tracker
 
@@ -39,6 +40,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 15 | Easy | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [`consecutive.cpp`](/Daily%20Logs/2025/12/15/consecutive.cpp) |
 | **Dec 16** | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [`concatenation.cpp`](/Daily%20Logs/2025/12/16/concatenation.cpp) |
 | **Dec 17** | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [`permutation.cpp`](/Daily%20Logs/2025/12/17/permutation.cpp) |
+| **Dec 18** | Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [`shuffle.cpp`](/Daily%20Logs/2025/12/18/shuffle.cpp) |
 
 ### 🧩 Geeks for Geeks Tracker
 | Date | Level | Problem | My Solution | Concepts |
