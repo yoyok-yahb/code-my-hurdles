@@ -27,6 +27,9 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Dec 17** | 800 | [Odd One Out](https://codeforces.com/problemset/problem/1915/A) | [`odd.cpp`](/Daily%20Logs/2025/12/17/odd.cpp) | Bitmasks, Implementation |
 | Dec 17 | 800 | [2023](https://codeforces.com/problemset/problem/1916/A) | . | Constructive Algorithms, Implementation, Math, Number Theory |
 | **Dec 18** | 800 | [Minimal Coprime](https://codeforces.com/problemset/problem/2063/A) | [`coprime.cpp`](/Daily%20Logs/2025/12/18/coprime.cpp) | Math, Number Theory |
+| Dec 18 | 800 | [Brogramming Contest](https://codeforces.com/problemset/problem/2064/A) | [`brogramming.cpp`](/Daily%20Logs/2025/12/18/brogramming.cpp) | Greedy, Strings |
+| **Dec 19** | 800 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [`divisibility.cpp`](/Daily%20Logs/2025/12/19/divisibility.cpp) | Math |
+| Dec 19 | 800 | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | [`fence.cpp`](/Daily%20Logs/2025/12/19/fence.cpp) | Implementation |
 
 ### 💡 Leetcode Tracker
 
@@ -41,11 +44,14 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Dec 16** | Easy | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [`concatenation.cpp`](/Daily%20Logs/2025/12/16/concatenation.cpp) |
 | **Dec 17** | Easy | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [`permutation.cpp`](/Daily%20Logs/2025/12/17/permutation.cpp) |
 | **Dec 18** | Easy | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [`shuffle.cpp`](/Daily%20Logs/2025/12/18/shuffle.cpp) |
+| **Dec 19** | Easy | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [`target.cpp`](/Daily%20Logs/2025/12/19/target.cpp) |
+| Dec 19 | Easy | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [`richest.cpp`](/Daily%20Logs/2025/12/19/richest.cpp) |
 
 ### 🧩 Geeks for Geeks Tracker
 | Date | Level | Problem | My Solution | Concepts |
 | :--- | :--- | :--- | :--- | :--- |
 | **Dec 16** | Easy | [Missing and Repeting](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [`missing-repeating.cpp`](/Daily%20Logs/2025/12/16/missing-repeating.cpp) | Arrays, Math |
+| **Dec 18** | Easy | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | [`equal.cpp`](/Daily%20Logs/2025/12/18/equal.cpp) | Arrays, Hash, Sorting |
 
 *I have added main function and header to each Leetcode & GfG submission solution so my codes are easy to test.*
 

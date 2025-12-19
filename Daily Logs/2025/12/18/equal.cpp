@@ -4,7 +4,7 @@
 
 using namespace std;
 
-/* MY LEETCODE SUBMISSION */
+/* MY GfG SUBMISSION */
 /* Marks: 2 */
 
 class Solution {
