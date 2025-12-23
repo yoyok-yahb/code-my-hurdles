@@ -2,16 +2,10 @@
 This repository documents my daily problem solving in C++ across various platform. 
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
-**My Profiles**
-* 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* 🧩 Geeks for Geeks / [yoyok-yahb]()
-* 🧑‍🍳 CodeChef / [shauryamani](https://www.codechef.com/users/shauryamani)
-
 ## 📆 Daily Log
 **Streak**: ✅
 
-### 📊 Codeforces Tracker
+### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
 * **Problems Solved**: 23
 * **Current Streak**: 5
 
@@ -37,7 +31,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 21 | 800 | [Forgotten Episode](https://codeforces.com/problemset/problem/440/A) | [`episodes.cpp`](/Daily%20Logs/2025/12/21/episodes.cpp) | Implementation |
 | Dec 21 | 800 | [Moving Chips](https://codeforces.com/problemset/problem/1923/A) | [`chips.cpp`](/Daily%20Logs/2025/12/21/chips.cpp) | Greedy, Implementataion |
 
-### 💡 Leetcode Tracker
+### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
 * **Problems Solved**: 17 (12 + 5 + 0)
 * **Current Streak**: 4
 
@@ -61,7 +55,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Dec 21** | Easy | [136. Single Number](https://leetcode.com/problems/single-number) | [`single1.cpp`](/Daily%20Logs/2025/12/21/single1.cpp) |
 | Dec 21 | Medium | [137. Single Number II](https://leetcode.com/problems/single-number-ii) | [`single2.cpp`](/Daily%20Logs/2025/12/21/single2.cpp) |
 
-### 🧩 Geeks for Geeks Tracker
+### 🧩 Geeks for Geeks / [yoyok-yahb]()
 * **Problems Solved**: 2
 * **Score**: 4
 
