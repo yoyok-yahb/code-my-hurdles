@@ -3,7 +3,7 @@ This repository documents my daily problem solving in C++ across various platfor
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
-**Streak**: ✅
+**Streak**: ✅ 1/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
 * **Problems Solved**: 23
@@ -30,10 +30,12 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Dec 21** | 800 | [Game](https://codeforces.com/problemset/problem/984/A) | [`game.cpp`](/Daily%20Logs/2025/12/21/game.cpp) | Sorting |
 | Dec 21 | 800 | [Forgotten Episode](https://codeforces.com/problemset/problem/440/A) | [`episodes.cpp`](/Daily%20Logs/2025/12/21/episodes.cpp) | Implementation |
 | Dec 21 | 800 | [Moving Chips](https://codeforces.com/problemset/problem/1923/A) | [`chips.cpp`](/Daily%20Logs/2025/12/21/chips.cpp) | Greedy, Implementataion |
+| | | | |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* **Problems Solved**: 17 (12 + 5 + 0)
-* **Current Streak**: 4
+* **Problems Solved**: 18 (13 + 5 + 0)
+* **Current Streak**: 1
+* **Contest Rating**: 1550
 
 | Date | Level | Problem | My Solution |
 | :--- | :--- | :--- | :--- |
@@ -54,6 +56,8 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 20 | Medium | [3780. Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three) | [`three.cpp`](/Daily%20Logs/2025/12/20/three.cpp) |
 | **Dec 21** | Easy | [136. Single Number](https://leetcode.com/problems/single-number) | [`single1.cpp`](/Daily%20Logs/2025/12/21/single1.cpp) |
 | Dec 21 | Medium | [137. Single Number II](https://leetcode.com/problems/single-number-ii) | [`single2.cpp`](/Daily%20Logs/2025/12/21/single2.cpp) |
+| | | | |
+| Jan 1 | Easy | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [`lucky.cpp`](/Daily%20Logs/2026/1/1/lucky.cpp) |
 
 ### 🧩 Geeks for Geeks / [yoyok-yahb]()
 * **Problems Solved**: 2
