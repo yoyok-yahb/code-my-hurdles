@@ -3,11 +3,12 @@ This repository documents my daily problem solving in C++ across various platfor
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
-**Streak**: ✅ 1/1
+**Streak**: ✅ 16/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 23
-* **Current Streak**: 5
+* **Problems Solved**: 34
+* **Current Streak**: 1
+* **Rating**: 961 (newbie)
 
 | Date | CF Rating | Problem | My Solution | Concepts |
 | :--- | :--- | :--- | :--- | :--- |
@@ -16,11 +17,8 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Dec 14** | 800 | [Sum](https://codeforces.com/problemset/problem/1742/A) | [`sum.cpp`](/Daily%20Logs/2025/12/14/sum.cpp) | Implementation |
 | Dec 14 | 800 | [Yogurt Sale](https://codeforces.com/problemset/problem/1955/A) | [`yogurt.cpp`](/Daily%20Logs/2025/12/14/yogurt.cpp) | Math |
 | **Dec 15** | 800 | [Good Kid](https://codeforces.com/problemset/problem/1873/B) | [`goodkid.cpp`](/Daily%20Logs/2025/12/15/goodkid.cpp) | Brute Force, Greedy, Math |
-| Dec 15 | 800 | [Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | ⏳ | Greedy, Math |
 | **Dec 16** | 800 | [Line Trip](https://codeforces.com/problemset/problem/1901/A) | [`linetrip.cpp`](/Daily%20Logs/2025/12/16/linetrip.cpp) | Greedy, Math |
-| Dec 16 | 800 | [Shuffle Party](https://codeforces.com/problemset/problem/1937/A) | ⏳ | Implementation, Math |
 | **Dec 17** | 800 | [Odd One Out](https://codeforces.com/problemset/problem/1915/A) | [`odd.cpp`](/Daily%20Logs/2025/12/17/odd.cpp) | Bitmasks, Implementation |
-| Dec 17 | 800 | [2023](https://codeforces.com/problemset/problem/1916/A) | ⏳ | Constructive Algorithms, Implementation, Math, Number Theory |
 | **Dec 18** | 800 | [Minimal Coprime](https://codeforces.com/problemset/problem/2063/A) | [`coprime.cpp`](/Daily%20Logs/2025/12/18/coprime.cpp) | Math, Number Theory |
 | Dec 18 | 800 | [Brogramming Contest](https://codeforces.com/problemset/problem/2064/A) | [`brogramming.cpp`](/Daily%20Logs/2025/12/18/brogramming.cpp) | Greedy, Strings |
 | **Dec 19** | 800 | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [`divisibility.cpp`](/Daily%20Logs/2025/12/19/divisibility.cpp) | Math |
@@ -31,9 +29,14 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 21 | 800 | [Forgotten Episode](https://codeforces.com/problemset/problem/440/A) | [`episodes.cpp`](/Daily%20Logs/2025/12/21/episodes.cpp) | Implementation |
 | Dec 21 | 800 | [Moving Chips](https://codeforces.com/problemset/problem/1923/A) | [`chips.cpp`](/Daily%20Logs/2025/12/21/chips.cpp) | Greedy, Implementataion |
 | | | | |
+| **Jan 16** | 800 | [A. Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | [`minmax.cpp`](/Daily%20Logs/2026/1/16/minmax.cpp) | Greedy, Math |
+| Jan 16 | 800 | [A. Shuffle Party](https://codeforces.com/problemset/problem/1937/A) | [`shuffle.cpp`](/Daily%20Logs/2026/1/16/shuffle.cpp) | Implementation, Math |
+| Jan 16 | 800 | [A. 2023](https://codeforces.com/problemset/problem/1916/A) | [`2023.cpp`](/Daily%20Logs/2026/1/16/2023.cpp) | Implementation, Math, Number Theory |
+| Jan 16 | 800 | [A. Fashionable Array](https://codeforces.com/problemset/problem/2110/A) | [`fashionable.cpp`](/Daily%20Logs/2026/1/16/fashionable.cpp) | Implementation, Sorting |
+| Jan 16 | 800 | [A. Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A) | [`milya.cpp`](/Daily%20Logs/2026/1/16/fashionable.cpp) | Constructive Algorithms, Greedy, Sortings |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* **Problems Solved**: 18 (13 + 5 + 0)
+* **Problems Solved**: 19 (13 + 6 + 0)
 * **Current Streak**: 1
 * **Contest Rating**: 1550
 
