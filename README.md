@@ -3,11 +3,11 @@ This repository documents my daily problem solving in C++ across various platfor
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
-**Streak**: ✅ 16/1
+**Streak**: ✅✅ 17/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 34
-* **Current Streak**: 1
+* **Problems Solved**: 36
+* **Current Streak**: 2
 * **Rating**: 961 (newbie)
 
 | Date | CF Rating | Problem | My Solution | Concepts |
@@ -34,10 +34,12 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 16 | 800 | [A. 2023](https://codeforces.com/problemset/problem/1916/A) | [`2023.cpp`](/Daily%20Logs/2026/1/16/2023.cpp) | Implementation, Math, Number Theory |
 | Jan 16 | 800 | [A. Fashionable Array](https://codeforces.com/problemset/problem/2110/A) | [`fashionable.cpp`](/Daily%20Logs/2026/1/16/fashionable.cpp) | Implementation, Sorting |
 | Jan 16 | 800 | [A. Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A) | [`milya.cpp`](/Daily%20Logs/2026/1/16/fashionable.cpp) | Constructive Algorithms, Greedy, Sortings |
+| **Jan 17** | 800 | [A. Adjacent Digit Sum](https://codeforces.com/problemset/problem/2067/A) | [`adjacent.cpp`](/Daily%20Logs/2026/1/17/adjacent.cpp) | Brute Force, Constructive Algorithms, Maths |
+| Jan 17 | 800 | [A. Bear and Five Cards](https://codeforces.com/contest/680/problem/A) | [`bear.cpp`](/Daily%20Logs/2026/1/17/bear.cpp) | Constructive Algorithms, Implementation |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* **Problems Solved**: 23 (15 + 7 + 1)
-* **Current Streak**: 1
+* **Problems Solved**: 25 (15 + 9 + 1)
+* **Current Streak**: 2
 * **Contest Rating**: 1550
 
 | Date | Level | Problem | My Solution |
@@ -61,10 +63,12 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Dec 21 | Medium | [137. Single Number II](https://leetcode.com/problems/single-number-ii) | [`single2.cpp`](/Daily%20Logs/2025/12/21/single2.cpp) |
 | | | | |
 | Jan 1 | Easy | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [`lucky.cpp`](/Daily%20Logs/2026/1/1/lucky.cpp) |
-| Jan 16 | Medium | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [`roman1.cpp`](/Daily%20Logs/2026/1/16/roman1.cpp) |
+| **Jan 16** | Medium | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [`roman1.cpp`](/Daily%20Logs/2026/1/16/roman1.cpp) |
 | Jan 16 | Easy | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [`roman2.cpp`](/Daily%20Logs/2026/1/16/roman2.cpp) |
 | Jan 16 | Hard | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | [`numberwords.cpp`](/Daily%20Logs/2026/1/16/numberwords.cpp) |
 | Jan 16 | Easy | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`lastword.cpp`](/Daily%20Logs/2026/1/16/lastword.cpp) |
+| **Jan 17** | Medium | [3809. Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower) | [`tower.cpp`](/Daily%20Logs/2026/1/17/tower.cpp) |
+| Jan 17 | Medium | [3810. Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | [`target.cpp`](/Daily%20Logs/2026/1/17/target.cpp) |
 
 ### 🧩 Geeks for Geeks / [yoyok-yahb](https://www.geeksforgeeks.org/profile/yoyok_yahb?tab=activity)
 * **Problems Solved**: 2
