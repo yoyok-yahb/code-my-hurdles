@@ -3,11 +3,13 @@ This repository documents my daily problem solving in C++ across various platfor
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
-**Streak**: ✅✅ 17/1
+**Streak**:
+⬛⬛⬛⬛⬛⬛✅✅
+✅ 18/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 36
-* **Current Streak**: 2
+* **Problems Solved**: 41
+* **Current Streak**: 3
 * **Rating**: 961 (newbie)
 
 | Date | CF Rating | Problem | My Solution | Concepts |
@@ -36,10 +38,15 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 16 | 800 | [A. Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A) | [`milya.cpp`](/Daily%20Logs/2026/1/16/fashionable.cpp) | Constructive Algorithms, Greedy, Sortings |
 | **Jan 17** | 800 | [A. Adjacent Digit Sum](https://codeforces.com/problemset/problem/2067/A) | [`adjacent.cpp`](/Daily%20Logs/2026/1/17/adjacent.cpp) | Brute Force, Constructive Algorithms, Maths |
 | Jan 17 | 800 | [A. Bear and Five Cards](https://codeforces.com/contest/680/problem/A) | [`bear.cpp`](/Daily%20Logs/2026/1/17/bear.cpp) | Constructive Algorithms, Implementation |
+| **Jan 18** | - | [A. Dual-Core Conflict](https://codeforces.com/gym/662818/problem/A) | [`dualcore.cpp`](/Daily%20Logs/2026/1/18/dualcore.cpp) | - |
+| Jan 18 | - | [A. Perfect Root](https://codeforces.com/contest/2185/problem/A) |[`perfectroot.cpp`](/Daily%20Logs/2026/1/18/perfectroot.cpp) | Math |
+| Jan 18 | - | [B. Prefix Max](https://codeforces.com/contest/2185/problem/B) | [`prefixmax.cpp`](/Daily%20Logs/2026/1/18/prefixmax.cpp) | Greedy |
+| Jan 18 | - | [C. Shifted MEX](https://codeforces.com/contest/2185/problem/C) | [`mex.cpp`](/Daily%20Logs/2026/1/18/mex.cpp) | Implementation, Sortings |
+| Jan 18 | - | [D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | [`outofmemoryerror.cpp`](/Daily%20Logs/2026/1/18/outofmemoryerror.cpp) | Data Structures, Math, Two Pointers |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* **Problems Solved**: 25 (15 + 9 + 1)
-* **Current Streak**: 2
+* **Problems Solved**: 26 (16 + 9 + 1)
+* **Current Streak**: 3
 * **Contest Rating**: 1550
 
 | Date | Level | Problem | My Solution |
@@ -69,6 +76,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 16 | Easy | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`lastword.cpp`](/Daily%20Logs/2026/1/16/lastword.cpp) |
 | **Jan 17** | Medium | [3809. Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower) | [`tower.cpp`](/Daily%20Logs/2026/1/17/tower.cpp) |
 | Jan 17 | Medium | [3810. Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | [`target.cpp`](/Daily%20Logs/2026/1/17/target.cpp) |
+| **Jan 18** | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum) | [`twosum.cpp`](/Daily%20Logs/2026/1/18/twosum.cpp) |
 
 ### 🧩 Geeks for Geeks / [yoyok-yahb](https://www.geeksforgeeks.org/profile/yoyok_yahb?tab=activity)
 * **Problems Solved**: 2
@@ -87,5 +95,5 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
 **`/Daily-Logs/YYYY/MM/DD/`**: All code files for a given day are stored here.
