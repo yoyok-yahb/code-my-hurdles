@@ -4,13 +4,12 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
 **Streak**:
-⬛⬛⬛⬛⬛⬛✅✅
-✅ 18/1
+⬛⬛⬛⬛⬛⬛✅✅⋯✅✅ 19/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 41
-* **Current Streak**: 3
-* **Rating**: 961 (newbie)
+* **Problems Solved**: 43
+* **Current Streak**: 1↓
+* **Rating**: 1096↑ (newbie)
 
 | Date | CF Rating | Problem | My Solution | Concepts |
 | :--- | :--- | :--- | :--- | :--- |
@@ -43,10 +42,12 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 18 | - | [B. Prefix Max](https://codeforces.com/contest/2185/problem/B) | [`prefixmax.cpp`](/Daily%20Logs/2026/1/18/prefixmax.cpp) | Greedy |
 | Jan 18 | - | [C. Shifted MEX](https://codeforces.com/contest/2185/problem/C) | [`mex.cpp`](/Daily%20Logs/2026/1/18/mex.cpp) | Implementation, Sortings |
 | Jan 18 | - | [D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | [`outofmemoryerror.cpp`](/Daily%20Logs/2026/1/18/outofmemoryerror.cpp) | Data Structures, Math, Two Pointers |
+| **Jan 19** | 800 | [B. Serval and Inversion Magic](https://codeforces.com/problemset/problem/1789/B) | [`serval.cpp`](/Daily%20Logs/2026/1/19/serval.cpp) | Implementation, Strings, Two Pointers |
+| Jan 19 | 800 | [A. Direction Change](https://codeforces.com/contest/1668/problem/A) | [`direction.cpp`](/Daily%20Logs/2026/1/19/direction.cpp) | Implementaion, Math |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
-* **Problems Solved**: 26 (16 + 9 + 1)
-* **Current Streak**: 3
+* **Problems Solved**: 27 (16 + 10 + 1)
+* **Current Streak**: 4↑
 * **Contest Rating**: 1550
 
 | Date | Level | Problem | My Solution |
@@ -77,6 +78,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | **Jan 17** | Medium | [3809. Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower) | [`tower.cpp`](/Daily%20Logs/2026/1/17/tower.cpp) |
 | Jan 17 | Medium | [3810. Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | [`target.cpp`](/Daily%20Logs/2026/1/17/target.cpp) |
 | **Jan 18** | Easy | [1. Two Sum](https://leetcode.com/problems/two-sum) | [`twosum.cpp`](/Daily%20Logs/2026/1/18/twosum.cpp) |
+| **Jan 19** | Medium | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | [`sort.cpp`](/Daily%20Logs/2026/1/19/sort.cpp) |
 
 ### 🧩 Geeks for Geeks / [yoyok-yahb](https://www.geeksforgeeks.org/profile/yoyok_yahb?tab=activity)
 * **Problems Solved**: 2
