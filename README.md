@@ -4,11 +4,11 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ## 📆 Daily Log
 **Streak**:
-⬛⬛⬛⬛⬛⬛✅✅⋯✅✅ 19/1
+⬛⬛⬛⬛⬛⬛✅✅⋯✅✅✅ 20/1
 
 ### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 43
-* **Current Streak**: 1↓
+* **Problems Solved**: 44
+* **Current Streak**: 2↑
 * **Rating**: 1096↑ (newbie)
 
 | Date | CF Rating | Problem | My Solution | Concepts |
@@ -44,6 +44,7 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 18 | - | [D. OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | [`outofmemoryerror.cpp`](/Daily%20Logs/2026/1/18/outofmemoryerror.cpp) | Data Structures, Math, Two Pointers |
 | **Jan 19** | 800 | [B. Serval and Inversion Magic](https://codeforces.com/problemset/problem/1789/B) | [`serval.cpp`](/Daily%20Logs/2026/1/19/serval.cpp) | Implementation, Strings, Two Pointers |
 | Jan 19 | 800 | [A. Direction Change](https://codeforces.com/contest/1668/problem/A) | [`direction.cpp`](/Daily%20Logs/2026/1/19/direction.cpp) | Implementaion, Math |
+| **Jan 20** | 800 | [A. Dual Trigger](https://codeforces.com/problemset/problem/1951/A) | [`lamps.cpp`](/Daily%20Logs/2026/1/20/lamps.cpp) |
 
 ### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
 * **Problems Solved**: 27 (16 + 10 + 1)
@@ -92,6 +93,10 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 ### 👨‍🍳 CodeChef / [shauryamani](https://www.codechef.com/users/shauryamani)
 * **Problems Solved**: 10
 * **Rating**: 1237 (1★)
+
+| Date | Level | Problem | My Solution | Concepts |
+| :--- | :--- | :--- | :--- | :--- |
+
 
 *I have added main function and header to each Leetcode & GfG submission solution so my codes are easy to test.*
 
