@@ -2,17 +2,17 @@
 This repository documents my daily problem solving in C++ across various platform. 
 I will update this **DAILY** irrespective of how many problems I solve in a day.
 
-## 📆 Daily Log
-**Streak**:
-⬛⬛⬛⬛⬛⬛✅✅⋯✅✅✅ 20/1
+| Platform | Contest Rating | Problems Solved | Current Streak | Profile |
+| :--- | ---: | ---: | ---: | :--- |
+| 📊 Codeforces | (newbie) 1096 | 44 | 2 ↑ |[shauryamani](https://codeforces.com/profile/shauryamani) |
+| 💡 Leetcode | (Top 31.52%) 1550 | 27 | 0 ↻ | [shaurya-mani](https://leetcode.com/u/shaurya-mani/) |
+| 👨‍🍳 CodeChef | (1★) 1237 | 10 | - | [shauryamani](https://www.codechef.com/users/shauryamani) |
 
-### 📊 Codeforces / [shauryamanitripathi](https://codeforces.com/profile/shauryamanitripathi)
-* **Problems Solved**: 44
-* **Current Streak**: 2↑
-* **Rating**: 1096↑ (newbie)
+**Overall Streak**: ⬛⬛⬛⬛⬛⬛✅✅⋯✅✅✅ 20/1
 
+### 📊 Codeforces
 | Date | CF Rating | Problem | My Solution | Concepts |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | ---: | :--- | :--- | :--- |
 | **Dec 13** | 800 | [Be Positive](https://codeforces.com/problemset/problem/2149/A) | [`positive.cpp`](/Daily%20Logs/2025/12/13/positive.cpp) | Math |
 | Dec 13 | 800 | [Same Difference](https://codeforces.com/problemset/problem/2166/A) | [`same.cpp`](/Daily%20Logs/2025/12/13/same.cpp) | Brute Force, Greedy, Strings |
 | **Dec 14** | 800 | [Sum](https://codeforces.com/problemset/problem/1742/A) | [`sum.cpp`](/Daily%20Logs/2025/12/14/sum.cpp) | Implementation |
@@ -46,13 +46,13 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 | Jan 19 | 800 | [A. Direction Change](https://codeforces.com/contest/1668/problem/A) | [`direction.cpp`](/Daily%20Logs/2026/1/19/direction.cpp) | Implementaion, Math |
 | **Jan 20** | 800 | [A. Dual Trigger](https://codeforces.com/problemset/problem/1951/A) | [`lamps.cpp`](/Daily%20Logs/2026/1/20/lamps.cpp) |
 
-### 💡 Leetcode / [shaurya-mani](https://leetcode.com/u/shaurya-mani/)
+### 💡 Leetcode / 
 * **Problems Solved**: 27 (16 + 10 + 1)
 * **Current Streak**: 4↑
 * **Contest Rating**: 1550
 
 | Date | Level | Problem | My Solution |
-| :--- | :--- | :--- | :--- |
+| :--- | ---: | :--- | :--- |
 | **Dec 13** | Easy | [1752. Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [`rotated.cpp`](/Daily%20Logs/2025/12/13/rotated.cpp) |
 | Dec 13 | Easy | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [`duplicates.cpp`](/Daily%20Logs/2025/12/13/duplicates.cpp) |
 | **Dec 14** | Easy | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) | [`zeroes.cpp`](/Daily%20Logs/2025/12/14/zeroes.cpp) |
@@ -83,20 +83,11 @@ I will update this **DAILY** irrespective of how many problems I solve in a day.
 
 ### 🧩 Geeks for Geeks / [yoyok-yahb](https://www.geeksforgeeks.org/profile/yoyok_yahb?tab=activity)
 * **Problems Solved**: 2
-* **Score**: 4
 
 | Date | Level | Problem | My Solution | Concepts |
 | :--- | :--- | :--- | :--- | :--- |
 | **Dec 16** | Easy | [Missing and Repeting](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | [`missing-repeating.cpp`](/Daily%20Logs/2025/12/16/missing-repeating.cpp) | Arrays, Math |
 | **Dec 18** | Easy | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | [`equal.cpp`](/Daily%20Logs/2025/12/18/equal.cpp) | Arrays, Hash, Sorting |
-
-### 👨‍🍳 CodeChef / [shauryamani](https://www.codechef.com/users/shauryamani)
-* **Problems Solved**: 10
-* **Rating**: 1237 (1★)
-
-| Date | Level | Problem | My Solution | Concepts |
-| :--- | :--- | :--- | :--- | :--- |
-
 
 *I have added main function and header to each Leetcode & GfG submission solution so my codes are easy to test.*
 
